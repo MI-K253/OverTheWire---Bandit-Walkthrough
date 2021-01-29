@@ -1,1 +1,1 @@
-# OverTheWire---Bandit-Walkthrough
+# OverTheWire Bandit Walkthrough
